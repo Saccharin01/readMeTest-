@@ -1,5 +1,6 @@
 <div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/po9RznauAcPrHS7oVw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/AmberApp-amber-app-amberapp-po9RznauAcPrHS7oVw">via GIPHY</a></p>
 
+![Giphy GIF](https://media.giphy.com/media/po9RznauAcPrHS7oVw/giphy.gif)
 
 
 # CyberFunc
