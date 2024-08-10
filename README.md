@@ -3,13 +3,6 @@
 
 # CyberFunc
 
-##팀원 소개
-
-- **임 유진**
-
-- **조 우식**
-
-- **황 재민**
 
 ## 팀소개
 
@@ -17,6 +10,13 @@
 
 translate : https://charactercalculator.com/ko/binary-translator/
 
+## 팀원 소개
+
+- **임 유진**  / [GitHub](https://github.com/fbghk)
+
+- **조 우식**  / [GitHub](https://github.com/Saccharin01)
+
+- **황 재민**  / [GitHub](https://github.com/jaemin1005)
 
 
 ## 사용 스택
